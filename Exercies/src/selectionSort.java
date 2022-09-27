@@ -31,8 +31,4 @@ public class selectionSort {
         arr[first]= arr[second];
         arr[second]= temp;
     }
-
-
-
-
 }
