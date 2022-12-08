@@ -61,8 +61,8 @@ public class ex {
         System.out.println(b1.hashCode());
         System.out.println(a1.matches("vanshika"));
         System.out.println(a1.trim());
-
 //        STRIP.....
         System.out.println(Arrays.toString(a1.toCharArray()));
     }
+
 }
